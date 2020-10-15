@@ -1,0 +1,399 @@
+﻿{
+  "Title": "Assurance (Elective Module)",
+  "Subtitle": "The National Committee on Accreditation Et ac, erat integer dolor eget non quisque, suscipit et, sodales tristique eu porttitor lorem. Mi nullam ac vivamus turpis in. Sit sed, sociis donec facilisi lectus excepturi. Quis nec.",
+  "LanguageType": 1,
+  "CreateDateUTC": "7/20/2018 9:28:41 AM",
+  "Description": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet",
+  "TotalDurationInSeconds": 14400,
+  "LecturesCount": 28,
+  "Rating": 3.4,
+  "RatesCount": 30,
+  "EnrollmentCount": 125,
+  "Prerequisites":"Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet",
+  "Refferences":"Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet",
+  "TargetStudents":"Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet",
+  "DiscountPercent": 10,
+  "DiscountAmount": 0,
+  "UnitPrice": 35,
+  "State": "Lanched",
+  "Sections": [
+    {
+      "SortOrder": 1,
+      "Title": "Course Overview",
+      "Lectures": [
+        {
+          "SortOrder": 1,
+          "Title": "Course Overview",
+          "DurationInSeconds": 34,
+          "IsAllowPreview": true,
+          "Contents": [
+            {
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "SortOrder": 1,
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "SortOrder": 2,
+      "Title": "What Is Python?",
+      "Lectures": [
+        {
+          "SortOrder": 1,
+          "Title": "Introduction",
+          "DurationInSeconds": 50,
+          "IsAllowPreview": true,
+          "Contents": [
+            {
+              "SortOrder": 1,
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        },
+        {
+          "SortOrder": 2,
+          "Title": "Getting the Most from This Course",
+          "DurationInSeconds": 593,
+          "IsAllowPreview": false,
+          "Contents": [
+            {
+              "SortOrder": 1,
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Title": "What Is Python?",
+          "DurationInSeconds": 473,
+          "IsAllowPreview": false,
+          "Contents": [
+            {
+              "SortOrder": 1,
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Title": "Why Should Developers Care?",
+          "DurationInSeconds": 373,
+          "IsAllowPreview": false,
+          "Contents": [
+            {
+              "SortOrder": 1,
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Title": "What Makes Python Different?",
+          "DurationInSeconds": 279,
+          "IsAllowPreview": false,
+          "Contents": [
+            {
+              "SortOrder": 1,
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "SortOrder": 3,
+      "Title": "When and Where Is Python Being Used?",
+      "Lectures": [
+        {
+          "SortOrder": 1,
+          "Title": "Introduction",
+          "DurationInSeconds": 70,
+          "IsAllowPreview": true,
+          "Contents": [
+            {
+              "SortOrder": 1,
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        },
+        {
+          "SortOrder": 2,
+          "Title": "Linux Scripting and Administration",
+          "DurationInSeconds": 330,
+          "IsAllowPreview": false,
+          "Contents": [
+            {
+              "SortOrder": 1,
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Title": "Web Development",
+          "DurationInSeconds": 488,
+          "IsAllowPreview": false,
+          "Contents": [
+            {
+              "SortOrder": 1,
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Title": "Application Scripting",
+          "DurationInSeconds": 497,
+          "IsAllowPreview": false,
+          "Contents": [
+            {
+              "SortOrder": 1,
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        },
+        {
+          "SortOrder": 5,
+          "Title": "Data Science",
+          "DurationInSeconds": 392,
+          "IsAllowPreview": false,
+          "Contents": [
+            {
+              "SortOrder": 1,
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        },
+        {
+          "SortOrder": 6,
+          "Title": "Summary",
+          "DurationInSeconds": 263,
+          "IsAllowPreview": false,
+          "Contents": [
+            {
+              "SortOrder": 1,
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "SortOrder": 4,
+      "Title": "Working with Azure Key Vault",
+      "Lectures": [
+        {
+          "SortOrder": 1,
+          "Title": "Introduction",
+          "DurationInSeconds": 70,
+          "IsAllowPreview": true,
+          "Contents": [
+            {
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "SortOrder": 1,
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        },
+        {
+          "SortOrder": 2,
+          "Title": "The Basics",
+          "DurationInSeconds": 402,
+          "IsAllowPreview": false,
+          "Contents": [
+            {
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "SortOrder": 1,
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Title": "Learning and Documentation",
+          "DurationInSeconds": 530,
+          "IsAllowPreview": false,
+          "Contents": [
+            {
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "SortOrder": 1,
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Title": "Working with the Code of Others",
+          "DurationInSeconds": 444,
+          "IsAllowPreview": false,
+          "Contents": [
+            {
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "SortOrder": 1,
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "SortOrder": 5,
+      "Title": "Managing Identity",
+      "Lectures": [
+        {
+          "SortOrder": 1,
+          "Title": "Introduction",
+          "DurationInSeconds": 70,
+          "IsAllowPreview": true,
+          "Contents": [
+            {
+              "SortOrder": 1,
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        },
+        {
+          "SortOrder": 2,
+          "Title": "Python 2 vs. Python 3",
+          "DurationInSeconds": 330,
+          "IsAllowPreview": false,
+          "Contents": [
+            {
+              "SortOrder": 1,
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        },
+        {
+          "SortOrder": 3,
+          "Title": "Executing Python Code",
+          "DurationInSeconds": 234,
+          "IsAllowPreview": false,
+          "Contents": [
+            {
+              "SortOrder": 1,
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        },
+        {
+          "SortOrder": 4,
+          "Title": "Summary",
+          "DurationInSeconds": 30,
+          "IsAllowPreview": false,
+          "Contents": [
+            {
+              "SortOrder": 1,
+              "Title": "demo video",
+              "Desctiption": "demo video",
+              "CreateDateUTC": "7/20/2018 9:28:41 AM",
+              "Video": {
+                "VimeoId": 406746652
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Attributes": [
+    { "EntityAttributeId": 4 },
+    { "EntityAttributeId": 46 },
+    { "EntityAttributeId": 48 }
+  ],
+  "PreviewVideo": {
+    "VimeoId": 406746652
+  }
+}

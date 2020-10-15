@@ -1,0 +1,30 @@
+﻿[
+  {
+    "_id": 1,
+    "Name": "Field"
+  },
+  {
+    "_id": 2,
+    "Name": "Institution"
+  },
+  {
+    "_id": 3,
+    "Name": "Subject"
+  },
+  {
+    "_id": 4,
+    "Name": "Level"
+  },
+  {
+    "_id": 5,
+    "Name": "Region"
+  },
+  {
+    "_id": 6,
+    "Name": "Professor"
+  },
+  {
+    "_id": 7,
+    "Name": "Program"
+  }
+]

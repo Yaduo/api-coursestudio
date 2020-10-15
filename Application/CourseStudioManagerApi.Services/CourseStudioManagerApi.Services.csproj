@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>CourseStudioManager.Api.Services </RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Application.Common.csproj" />
+    <ProjectReference Include="..\Api.Dtos\Application.Dtos.csproj" />
+    <ProjectReference Include="..\Events\Application.Events.csproj" />
+    <ProjectReference Include="..\..\Domain\Models\Domain.Models.csproj" />
+    <ProjectReference Include="..\..\Domain\Services\Domain.Services.csproj" />
+    <ProjectReference Include="..\..\Domain\TraversalModel\Domain.TraversalModel.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\BlobStorage\Lib.BlobStorage.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Exceptions\Lib.Exceptions.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Ioc\Lib.Ioc.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Mediator\Lib.Mediator.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Utilities\Lib.Utilities.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.JsonPatch" Version="2.1.0" />
+  </ItemGroup>
+</Project>

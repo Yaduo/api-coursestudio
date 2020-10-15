@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>CourseStudio.Domain.Persistence</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Infrastructure\Ioc\Lib.Ioc.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Utilities\Lib.Utilities.csproj" />
+    <ProjectReference Include="..\Models\Domain.Models.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Mediator\Lib.Mediator.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.1" />
+  </ItemGroup>
+</Project>

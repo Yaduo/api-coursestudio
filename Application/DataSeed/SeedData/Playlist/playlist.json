@@ -1,0 +1,101 @@
+﻿[
+  {
+    "UserId": null,
+    "PlaylistsType": 0,
+    "Title": "High School Recommend",
+    "Description": "Public playlist for high school courses",
+    "PlaylistCourses": [
+      {
+        "CourseId": 1
+      },
+      {
+        "CourseId": 31
+      },
+      {
+        "CourseId": 32
+      },
+      {
+        "CourseId": 33
+      },
+      {
+        "CourseId": 34
+      },
+      {
+        "CourseId": 35
+      },
+      {
+        "CourseId": 36
+      },
+      {
+        "CourseId": 37
+      }
+    ]
+  },
+  {
+    "UserId": null,
+    "PlaylistsType": 0,
+    "Title": "College Recommend",
+    "Description": "Public playlist for college courses",
+    "PlaylistCourses": [
+      {
+        "CourseId": 2
+      },
+      {
+        "CourseId": 3
+      },
+      {
+        "CourseId": 4
+      },
+      {
+        "CourseId": 5
+      },
+      {
+        "CourseId": 6
+      },
+      {
+        "CourseId": 7
+      },
+      {
+        "CourseId": 8
+      },
+      {
+        "CourseId": 9
+      },
+      {
+        "CourseId": 10
+      }
+    ]
+  },
+  {
+    "UserId": null,
+    "PlaylistsType": 0,
+    "Title": "Certificate Recommend",
+    "Description": "Public playlist for certificate courses",
+    "PlaylistCourses": [
+      {
+        "CourseId": 16
+      },
+      {
+        "CourseId": 17
+      },
+      {
+        "CourseId": 18
+      },
+      {
+        "CourseId": 19
+      },
+      {
+        "CourseId": 20
+      },
+      {
+        "CourseId": 21
+      },
+      {
+        "CourseId": 22
+      },
+      {
+        "CourseId": 24
+      }
+    ]
+  }
+]

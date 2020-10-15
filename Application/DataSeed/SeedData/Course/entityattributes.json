@@ -1,0 +1,380 @@
+﻿[
+  {
+    "Id": 1,
+    "Value": "Hight School",
+    "EntityAttributeTypeId": 1,
+    "ParentId": null,
+    "IsSearchable": true
+  },
+  {
+    "Id": 2,
+    "Value": "College",
+    "EntityAttributeTypeId": 1,
+    "ParentId": null,
+    "IsSearchable": true
+  },
+  {
+    "Id": 3,
+    "Value": "Language",
+    "EntityAttributeTypeId": 1,
+    "ParentId": null,
+    "IsSearchable": true
+  },
+  {
+    "Id": 4,
+    "Value": "Certificate",
+    "EntityAttributeTypeId": 1,
+    "ParentId": null,
+    "IsSearchable": true
+  },
+  {
+    "Id": 5,
+    "Value": "BC",
+    "EntityAttributeTypeId": 5,
+    "ParentId": 1,
+    "IsSearchable": true
+  },
+  {
+    "Id": 6,
+    "Value": "ON",
+    "EntityAttributeTypeId": 5,
+    "ParentId": 1,
+    "IsSearchable": true
+  },
+  {
+    "Id": 7,
+    "Value": "U.S.",
+    "EntityAttributeTypeId": 5,
+    "ParentId": 1,
+    "IsSearchable": true
+  },
+  {
+    "Id": 8,
+    "Value": "Level 6",
+    "EntityAttributeTypeId": 4,
+    "ParentId": 1,
+    "IsSearchable": true
+  },
+  {
+    "Id": 9,
+    "Value": "Level 7",
+    "EntityAttributeTypeId": 4,
+    "ParentId": 1,
+    "IsSearchable": true
+  },
+  {
+    "Id": 10,
+    "Value": "Level 8",
+    "EntityAttributeTypeId": 4,
+    "ParentId": 1,
+    "IsSearchable": true
+  },
+  {
+    "Id": 11,
+    "Value": "Level 9",
+    "EntityAttributeTypeId": 4,
+    "ParentId": 1,
+    "IsSearchable": true
+  },
+  {
+    "Id": 12,
+    "Value": "Level 10",
+    "EntityAttributeTypeId": 4,
+    "ParentId": 1,
+    "IsSearchable": true
+  },
+  {
+    "Id": 13,
+    "Value": "Level 11",
+    "EntityAttributeTypeId": 4,
+    "ParentId": 1,
+    "IsSearchable": true
+  },
+  {
+    "Id": 14,
+    "Value": "Level 12",
+    "EntityAttributeTypeId": 4,
+    "ParentId": 1,
+    "IsSearchable": true
+  },
+  {
+    "Id": 15,
+    "Value": "AP",
+    "EntityAttributeTypeId": 7,
+    "ParentId": 1,
+    "IsSearchable": true
+  },
+  {
+    "Id": 16,
+    "Value": "IB",
+    "EntityAttributeTypeId": 7,
+    "ParentId": 1,
+    "IsSearchable": true
+  },
+  {
+    "Id": 17,
+    "Value": "SAT",
+    "EntityAttributeTypeId": 7,
+    "ParentId": 1,
+    "IsSearchable": true
+  },
+  {
+    "Id": 18,
+    "Value": "Math",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 1,
+    "IsSearchable": true
+  },
+  {
+    "Id": 19,
+    "Value": "Chemistry",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 1,
+    "IsSearchable": true
+  },
+  {
+    "Id": 20,
+    "Value": "Physics",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 1,
+    "IsSearchable": true
+  },
+  {
+    "Id": 21,
+    "Value": "SFU",
+    "EntityAttributeTypeId": 2,
+    "ParentId": 2,
+    "IsSearchable": true
+  },
+  {
+    "Id": 22,
+    "Value": "BUEC",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 21,
+    "IsSearchable": true
+  },
+  {
+    "Id": 23,
+    "Value": "BUS",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 21,
+    "IsSearchable": true
+  },
+  {
+    "Id": 24,
+    "Value": "CHEM",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 21,
+    "IsSearchable": true
+  },
+  {
+    "Id": 25,
+    "Value": "CMPT",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 21,
+    "IsSearchable": true
+  },
+  {
+    "Id": 26,
+    "Value": "ECON",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 21,
+    "IsSearchable": true
+  },
+  {
+    "Id": 27,
+    "Value": "LING",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 21,
+    "IsSearchable": true
+  },
+  {
+    "Id": 28,
+    "Value": "MATH",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 21,
+    "IsSearchable": true
+  },
+  {
+    "Id": 29,
+    "Value": "PHIL",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 21,
+    "IsSearchable": true
+  },
+  {
+    "Id": 30,
+    "Value": "STAT",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 21,
+    "IsSearchable": true
+  },
+  {
+    "Id": 31,
+    "Value": "100",
+    "EntityAttributeTypeId": 4,
+    "ParentId": 21,
+    "IsSearchable": true
+  },
+  {
+    "Id": 32,
+    "Value": "200",
+    "EntityAttributeTypeId": 4,
+    "ParentId": 21,
+    "IsSearchable": true
+  },
+  {
+    "Id": 33,
+    "Value": "300",
+    "EntityAttributeTypeId": 4,
+    "ParentId": 21,
+    "IsSearchable": true
+  },
+  {
+    "Id": 34,
+    "Value": "Steven Pierce",
+    "EntityAttributeTypeId": 6,
+    "ParentId": 25,
+    "IsSearchable": true
+  },
+  {
+    "Id": 35,
+    "Value": "UBC",
+    "EntityAttributeTypeId": 2,
+    "ParentId": 2,
+    "IsSearchable": true
+  },
+  {
+    "Id": 36,
+    "Value": "CHEM",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 35,
+    "IsSearchable": true
+  },
+  {
+    "Id": 37,
+    "Value": "COMM",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 35,
+    "IsSearchable": true
+  },
+  {
+    "Id": 38,
+    "Value": "ECON",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 35,
+    "IsSearchable": true
+  },
+  {
+    "Id": 39,
+    "Value": "LPI",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 35,
+    "IsSearchable": true
+  },
+  {
+    "Id": 40,
+    "Value": "MATH",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 35,
+    "IsSearchable": true
+  },
+  {
+    "Id": 41,
+    "Value": "PSYC",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 35,
+    "IsSearchable": true
+  },
+  {
+    "Id": 42,
+    "Value": "STAT",
+    "EntityAttributeTypeId": 3,
+    "ParentId": 35,
+    "IsSearchable": true
+  },
+  {
+    "Id": 43,
+    "Value": "100",
+    "EntityAttributeTypeId": 4,
+    "ParentId": 35,
+    "IsSearchable": true
+  },
+  {
+    "Id": 44,
+    "Value": "200",
+    "EntityAttributeTypeId": 4,
+    "ParentId": 35,
+    "IsSearchable": true
+  },
+  {
+    "Id": 45,
+    "Value": "300",
+    "EntityAttributeTypeId": 4,
+    "ParentId": 35,
+    "IsSearchable": true
+  },
+  {
+    "Id": 46,
+    "Value": "CPA",
+    "EntityAttributeTypeId": 2,
+    "ParentId": 4,
+    "IsSearchable": true
+  },
+  {
+    "Id": 47,
+    "Value": "Common Module",
+    "EntityAttributeTypeId": 4,
+    "ParentId": 46,
+    "IsSearchable": true
+  },
+  {
+    "Id": 48,
+    "Value": "Elective Module",
+    "EntityAttributeTypeId": 4,
+    "ParentId": 46,
+    "IsSearchable": true
+  },
+  {
+    "Id": 49,
+    "Value": "CFA",
+    "EntityAttributeTypeId": 2,
+    "ParentId": 4,
+    "IsSearchable": true
+  },
+  {
+    "Id": 50,
+    "Value": "LEVEL 1",
+    "EntityAttributeTypeId": 4,
+    "ParentId": 49,
+    "IsSearchable": true
+  },
+  {
+    "Id": 51,
+    "Value": "Realtor",
+    "EntityAttributeTypeId": 2,
+    "ParentId": 4,
+    "IsSearchable": true
+  },
+  {
+    "Id": 52,
+    "Value": "BC",
+    "EntityAttributeTypeId": 5,
+    "ParentId": 51,
+    "IsSearchable": true
+  },
+  {
+    "Id": 53,
+    "Value": "CSC",
+    "EntityAttributeTypeId": 2,
+    "ParentId": 4,
+    "IsSearchable": true
+  },
+  {
+    "Id": 54,
+    "Value": "NCA",
+    "EntityAttributeTypeId": 2,
+    "ParentId": 4,
+    "IsSearchable": true
+  }
+]

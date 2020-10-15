@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>CourseStudio.Api.Dtos</AssemblyName>
+    <RootNamespace>CourseStudio.Application.Dtos</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\Models\Domain.Models.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Exceptions\Lib.Exceptions.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Ioc\Lib.Ioc.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Utilities\Lib.Utilities.csproj" />
+    <ProjectReference Include="..\..\Domain\TraversalModel\Domain.TraversalModel.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Configs\Lib.Configs.csproj" />
+  </ItemGroup>
+
+</Project>

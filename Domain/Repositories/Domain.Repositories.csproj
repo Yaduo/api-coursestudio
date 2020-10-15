@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>CourseStudio.Domain.Repositories</AssemblyName>
+    <RootNamespace>CourseStudio.Domain.Repositories</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Infrastructure\Ioc\Lib.Ioc.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Utilities\Lib.Utilities.csproj" />
+    <ProjectReference Include="..\Models\Domain.Models.csproj" />
+    <ProjectReference Include="..\TraversalModel\Domain.TraversalModel.csproj" />
+    <ProjectReference Include="..\Persistence\Domain.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

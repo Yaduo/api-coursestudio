@@ -1,0 +1,24 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: coursestudio-api-deployment
+spec:
+  selector:
+    matchLabels:
+      app: coursestudio-api-pod
+  template:
+    metadata:
+      labels:
+        app: coursestudio-api-pod
+    spec:
+      containers:
+      - name: coursestudio-api-container
+        image: coursestudiocontainerhub.azurecr.io/coursestudio-api:v1
+        resources:
+          limits:
+            memory: "128Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 80
+      imagePullSecrets:
+        - name: arc-secret-prd

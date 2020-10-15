@@ -1,0 +1,67 @@
+﻿[
+  {
+    "Title": "buy 2 get 1",
+    "Description": "buy 2 get 1",
+    "IsAllowToUseSimultaneously": false,
+    "IsActivate": true,
+    "CreateDateUTC": "11/20/2017 9:28:41 AM",
+    "LastUpdateDateUTC": "11/20/2017 9:28:41 AM",
+    "CouponRules": [
+      { "MemberName": "CourseIds", "Operator": "GreaterThan", "TargetValue": "2" }
+    ],
+    "QualifierRules": [
+      { "MemberName": "CourseIds", "Operator": "Contains", "TargetValue": "10" }
+    ],
+    "Scopes" : [
+      { "Level": 1, "CourseId": null, "DiscountAmount": null, "DiscountPercent": 100, "Quantity": 1}
+    ]
+  },
+  {
+    "Title": "SFU Computer Science Bundle (CMPT 120/265) 50% off",
+    "Description": "SFU Computer Science Bundle 50% off",
+    "IsAllowToUseSimultaneously": false,
+    "IsActivate": true,
+    "CreateDateUTC": "11/20/2017 9:28:41 AM",
+    "LastUpdateDateUTC": "11/20/2017 9:28:41 AM",
+    "CouponRules": [
+      { "MemberName": "CourseIds", "Operator": "Contains", "TargetValue": "28" },
+      { "MemberName": "CourseIds", "Operator": "Contains", "TargetValue": "35" }
+    ],
+    "QualifierRules": [],
+    "Scopes" : [
+      { "Level": 1, "CourseId": 28, "DiscountAmount": null, "DiscountPercent": 50, "Quantity": 1 },
+      { "Level": 1, "CourseId": 35, "DiscountAmount": null, "DiscountPercent": 50, "Quantity": 1 },
+    ]
+  },
+  {
+    "Title": "Buy PHIL 105 get PHIL 110",
+    "Description": "Buy PHIL 105 get PHIL 110",
+    "IsAllowToUseSimultaneously": false,
+    "IsActivate": true,
+    "CreateDateUTC": "11/20/2017 9:28:41 AM",
+    "LastUpdateDateUTC": "11/20/2017 9:28:41 AM",
+    "CouponRules": [
+      { "MemberName": "CourseIds", "Operator": "Contains", "TargetValue": "5" },
+      { "MemberName": "CourseIds", "Operator": "Contains", "TargetValue": "6" }
+    ],
+    "QualifierRules": [],
+    "Scopes" : [
+      { "Level": 1, "CourseId": 6, "DiscountAmount": null, "DiscountPercent": 100, "Quantity": 1}
+    ]
+  },
+  {
+    "Title": "满300减50",
+    "Description": "满300减50",
+    "IsAllowToUseSimultaneously": true,
+    "IsActivate": true,
+    "CreateDateUTC": "11/20/2017 9:28:41 AM",
+    "LastUpdateDateUTC": "11/20/2017 9:28:41 AM",
+    "CouponRules": [
+      { "MemberName": "TotalAmount", "Operator": "GreaterThan", "TargetValue": "300" }
+    ],
+    "QualifierRules": [],
+    "Scopes" : [
+      { "Level": 0, "CourseId": null, "DiscountAmount": 50, "DiscountPercent": null, "Quantity": 1}
+    ]
+  }
+]

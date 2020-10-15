@@ -1,0 +1,33 @@
+﻿apiVersion: apps/v1 # for versions before 1.9.0 use apps/v1beta2 
+kind: Deployment 
+metadata: 
+  name: manager-api-deployment 
+spec: 
+  selector: 
+    matchLabels: 
+      app: manager-api 
+  replicas: 2 # tells deployment to run 2 pods matching the template 
+  template:
+    metadata: 
+      labels: 
+        app: manager-api 
+    spec: 
+      containers: 
+      - name: manager-api 
+        image: coursestudio/manager-api:latest
+        ports: 
+        - containerPort: 80 
+--- 
+# https://kubernetes.io/docs/concepts/services-networking/service/#defining-a-service  
+kind: Service 
+apiVersion: v1 
+metadata: 
+  name: manager-api-service 
+spec: 
+  selector: 
+    app: manager-api 
+  ports: 
+  - protocol: TCP 
+    port: 80 
+    targetPort: 80 
+  type: LoadBalancer 

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>CourseStudio.Service.Common</AssemblyName>
+    <RootNamespace>CourseStudio.Application.Common</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Infrastructure\Ioc\Lib.Ioc.csproj" />
+    <ProjectReference Include="..\..\Domain\Repositories\Domain.Repositories.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Utilities\Lib.Utilities.csproj" />
+    <ProjectReference Include="..\Api.Dtos\Application.Dtos.csproj" />
+    <ProjectReference Include="..\..\Domain\Models\Domain.Models.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Configs\Lib.Configs.csproj" />
+    <ProjectReference Include="..\Events\Application.Events.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="5.2.2" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.2.2" />
+  </ItemGroup>
+</Project>

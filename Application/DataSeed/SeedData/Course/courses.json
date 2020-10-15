@@ -1,0 +1,1684 @@
+﻿[
+  {
+    "Title": "CMPT 125 Java",
+    "CourseType": 0,
+    "LanguageType": 1,
+    "CreateDateUTC": "11/20/2017 9:28:41 AM",
+    "Description": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet",
+    "Subtitle": "Et ac, erat integer dolor eget non quisque, suscipit et, sodales tristique eu porttitor lorem. Mi nullam ac vivamus turpis in. Sit sed, sociis donec facilisi lectus excepturi. Quis nec.",
+    "TotalDurationInSeconds": 11520,
+    "LecturesCount": 2,
+    "Rating": 3.4,
+    "RatesCount": 30,
+    "EnrollmentCount": 125,
+    "DiscountPercent": 0,
+    "DiscountAmount": 0,
+    "UnitPrice": 25,
+    "Sections": [
+      {
+        "Title": "section 1",
+        "Lectures": [
+          {
+            "Title": "Lecture 1",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 1",
+              "Description": "no Description",
+              "ClosedCaptions": [
+                {
+                  "LanguageType": 1,
+                  "CCString": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet"
+                },
+                {
+                  "LanguageType": 2,
+                  "CCString": "中文 字幕"
+                }
+              ]
+            }
+          },
+          {
+            "Title": "Lecture 2",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description",
+              "ClosedCaptions": [
+                {
+                  "LanguageType": 1,
+                  "CCString": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet"
+                },
+                {
+                  "LanguageType": 2,
+                  "CCString": "中文 字幕"
+                }
+              ]
+            }
+          },
+          {
+            "Title": "Lecture 3",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 2",
+        "Lectures": [
+          {
+            "Title": "Lecture 4",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 4",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 5",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 6",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 3",
+        "Lectures": [
+          {
+            "Title": "Lecture 7",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 7",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 8",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 8",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 9",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 9",
+              "Description": "no Description"
+            }
+          }
+        ]
+      }
+    ],
+    "Attributes": [
+      { "EntityAttributeId": 2 },
+      { "EntityAttributeId": 5},
+      { "EntityAttributeId": 8 },
+      { "EntityAttributeId": 17 },
+      { "EntityAttributeId": 21 }
+    ]
+  },
+  {
+    "Title": "CMPT 128 C++",
+    "CourseType": 0,
+    "LanguageType": 1,
+    "CreateDateUTC": "11/20/2017 9:28:41 AM",
+    "Description": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet",
+    "Subtitle": "Et ac, erat integer dolor eget non quisque, suscipit et, sodales tristique eu porttitor lorem. Mi nullam ac vivamus turpis in. Sit sed, sociis donec facilisi lectus excepturi. Quis nec.",
+    "TotalDurationInSeconds": 11520,
+    "LecturesCount": 2,
+    "Rating": 3.4,
+    "RatesCount": 30,
+    "EnrollmentCount": 125,
+    "DiscountPercent": 0,
+    "DiscountAmount": 0,
+    "UnitPrice": 35,
+    "Sections": [
+      {
+        "Title": "section 1",
+        "Lectures": [
+          {
+            "Title": "Lecture 1",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 1",
+              "Description": "no Description",
+              "ClosedCaptions": [
+                {
+                  "LanguageType": 1,
+                  "CCString": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet"
+                },
+                {
+                  "LanguageType": 2,
+                  "CCString": "中文 字幕"
+                }
+              ]
+            }
+          },
+          {
+            "Title": "Lecture 2",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description",
+              "ClosedCaptions": [
+                {
+                  "LanguageType": 1,
+                  "CCString": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet"
+                },
+                {
+                  "LanguageType": 2,
+                  "CCString": "中文 字幕"
+                }
+              ]
+            }
+          },
+          {
+            "Title": "Lecture 3",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 2",
+        "Lectures": [
+          {
+            "Title": "Lecture 4",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 4",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 5",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 6",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 3",
+        "Lectures": [
+          {
+            "Title": "Lecture 7",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 7",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 8",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 8",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 9",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 9",
+              "Description": "no Description"
+            }
+          }
+        ]
+      }
+    ],
+    "Attributes": [
+      { "EntityAttributeId": 2 },
+      { "EntityAttributeId": 5 },
+      { "EntityAttributeId": 8 },
+      { "EntityAttributeId": 17 }
+    ]
+  },
+  {
+    "Title": "CMPT 120 Python",
+    "CourseType": 0,
+    "LanguageType": 1,
+    "CreateDateUTC": "11/20/2017 9:28:41 AM",
+    "Description": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet",
+    "Subtitle": "Et ac, erat integer dolor eget non quisque, suscipit et, sodales tristique eu porttitor lorem. Mi nullam ac vivamus turpis in. Sit sed, sociis donec facilisi lectus excepturi. Quis nec.",
+    "TotalDurationInSeconds": 11520,
+    "LecturesCount": 2,
+    "Rating": 3.4,
+    "RatesCount": 30,
+    "EnrollmentCount": 125,
+    "DiscountPercent": 10,
+    "DiscountAmount": 0,
+    "UnitPrice": 45,
+    "Sections": [
+      {
+        "Title": "section 1",
+        "Lectures": [
+          {
+            "Title": "Lecture 1",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 1",
+              "Description": "no Description",
+              "ClosedCaptions": [
+                {
+                  "LanguageType": 1,
+                  "CCString": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet"
+                },
+                {
+                  "LanguageType": 2,
+                  "CCString": "中文 字幕"
+                }
+              ]
+            }
+          },
+          {
+            "Title": "Lecture 2",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description",
+              "ClosedCaptions": [
+                {
+                  "LanguageType": 1,
+                  "CCString": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet"
+                },
+                {
+                  "LanguageType": 2,
+                  "CCString": "中文 字幕"
+                }
+              ]
+            }
+          },
+          {
+            "Title": "Lecture 3",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 2",
+        "Lectures": [
+          {
+            "Title": "Lecture 4",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 4",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 5",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 6",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 3",
+        "Lectures": [
+          {
+            "Title": "Lecture 7",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 7",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 8",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 8",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 9",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 9",
+              "Description": "no Description"
+            }
+          }
+        ]
+      }
+    ],
+    "Attributes": [
+      { "EntityAttributeId": 2 },
+      { "EntityAttributeId": 5 },
+      { "EntityAttributeId": 8 },
+      { "EntityAttributeId": 17 }
+    ]
+  },
+  {
+    "Title": "CMPT 126 Web and JavaScript",
+    "CourseType": 0,
+    "LanguageType": 1,
+    "CreateDateUTC": "11/20/2017 9:28:41 AM",
+    "Description": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet",
+    "Subtitle": "Et ac, erat integer dolor eget non quisque, suscipit et, sodales tristique eu porttitor lorem. Mi nullam ac vivamus turpis in. Sit sed, sociis donec facilisi lectus excepturi. Quis nec.",
+    "TotalDurationInSeconds": 11520,
+    "LecturesCount": 2,
+    "Rating": 3.4,
+    "RatesCount": 30,
+    "EnrollmentCount": 125,
+    "DiscountPercent": 0,
+    "DiscountAmount": 0,
+    "UnitPrice": 45,
+    "Sections": [
+      {
+        "Title": "section 1",
+        "Lectures": [
+          {
+            "Title": "Lecture 1",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 1",
+              "Description": "no Description",
+              "ClosedCaptions": [
+                {
+                  "LanguageType": 1,
+                  "CCString": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet"
+                },
+                {
+                  "LanguageType": 2,
+                  "CCString": "中文 字幕"
+                }
+              ]
+            }
+          },
+          {
+            "Title": "Lecture 2",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description",
+              "ClosedCaptions": [
+                {
+                  "LanguageType": 1,
+                  "CCString": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet"
+                },
+                {
+                  "LanguageType": 2,
+                  "CCString": "中文 字幕"
+                }
+              ]
+            }
+          },
+          {
+            "Title": "Lecture 3",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 2",
+        "Lectures": [
+          {
+            "Title": "Lecture 4",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 4",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 5",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 6",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 3",
+        "Lectures": [
+          {
+            "Title": "Lecture 7",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 7",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 8",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 8",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 9",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 9",
+              "Description": "no Description"
+            }
+          }
+        ]
+      }
+    ],
+    "Attributes": [
+      { "EntityAttributeId": 2 },
+      { "EntityAttributeId": 5 },
+      { "EntityAttributeId": 8 },
+      { "EntityAttributeId": 17 }
+    ]
+  },
+  {
+    "Title": "CMPT 225 Data Structure",
+    "CourseType": 0,
+    "LanguageType": 1,
+    "CreateDateUTC": "11/20/2017 9:28:41 AM",
+    "Description": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet",
+    "Subtitle": "Et ac, erat integer dolor eget non quisque, suscipit et, sodales tristique eu porttitor lorem. Mi nullam ac vivamus turpis in. Sit sed, sociis donec facilisi lectus excepturi. Quis nec.",
+    "TotalDurationInSeconds": 11520,
+    "LecturesCount": 2,
+    "Rating": 3.4,
+    "RatesCount": 30,
+    "EnrollmentCount": 125,
+    "DiscountPercent": 0,
+    "DiscountAmount": 20,
+    "UnitPrice": 45,
+    "Sections": [
+      {
+        "Title": "section 1",
+        "Lectures": [
+          {
+            "Title": "Lecture 1",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 1",
+              "Description": "no Description",
+              "ClosedCaptions": [
+                {
+                  "LanguageType": 1,
+                  "CCString": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet"
+                },
+                {
+                  "LanguageType": 2,
+                  "CCString": "中文 字幕"
+                }
+              ]
+            }
+          },
+          {
+            "Title": "Lecture 2",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description",
+              "ClosedCaptions": [
+                {
+                  "LanguageType": 1,
+                  "CCString": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet"
+                },
+                {
+                  "LanguageType": 2,
+                  "CCString": "中文 字幕"
+                }
+              ]
+            }
+          },
+          {
+            "Title": "Lecture 3",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 2",
+        "Lectures": [
+          {
+            "Title": "Lecture 4",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 4",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 5",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 6",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 3",
+        "Lectures": [
+          {
+            "Title": "Lecture 7",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 7",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 8",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 8",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 9",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 9",
+              "Description": "no Description"
+            }
+          }
+        ]
+      }
+    ],
+    "Attributes": [
+      { "EntityAttributeId": 2 },
+      { "EntityAttributeId": 5 },
+      { "EntityAttributeId": 8 },
+      { "EntityAttributeId": 18 },
+      { "EntityAttributeId": 21 }
+    ]
+  },
+  {
+    "Title": "CMPT 250 Computer Architecture",
+    "CourseType": 0,
+    "LanguageType": 1,
+    "CreateDateUTC": "11/20/2017 9:28:41 AM",
+    "Description": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet",
+    "Subtitle": "Et ac, erat integer dolor eget non quisque, suscipit et, sodales tristique eu porttitor lorem. Mi nullam ac vivamus turpis in. Sit sed, sociis donec facilisi lectus excepturi. Quis nec.",
+    "TotalDurationInSeconds": 11520,
+    "LecturesCount": 2,
+    "Rating": 3.4,
+    "RatesCount": 30,
+    "EnrollmentCount": 125,
+    "DiscountPercent": 0,
+    "DiscountAmount": 0,
+    "UnitPrice": 33,
+    "Sections": [
+      {
+        "Title": "section 1",
+        "Lectures": [
+          {
+            "Title": "Lecture 1",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 1",
+              "Description": "no Description",
+              "ClosedCaptions": [
+                {
+                  "LanguageType": 1,
+                  "CCString": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet"
+                },
+                {
+                  "LanguageType": 2,
+                  "CCString": "中文 字幕"
+                }
+              ]
+            }
+          },
+          {
+            "Title": "Lecture 2",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description",
+              "ClosedCaptions": [
+                {
+                  "LanguageType": 1,
+                  "CCString": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet"
+                },
+                {
+                  "LanguageType": 2,
+                  "CCString": "中文 字幕"
+                }
+              ]
+            }
+          },
+          {
+            "Title": "Lecture 3",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 2",
+        "Lectures": [
+          {
+            "Title": "Lecture 4",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 4",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 5",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 6",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 3",
+        "Lectures": [
+          {
+            "Title": "Lecture 7",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 7",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 8",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 8",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 9",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 9",
+              "Description": "no Description"
+            }
+          }
+        ]
+      }
+    ],
+    "Attributes": [
+      { "EntityAttributeId": 2 },
+      { "EntityAttributeId": 5 },
+      { "EntityAttributeId": 8 },
+      { "EntityAttributeId": 18 }
+    ]
+  },
+  {
+    "Title": "Math level 12",
+    "CourseType": 1,
+    "LanguageType": 2,
+    "CreateDateUTC": "11/20/2017 9:28:41 AM",
+    "Description": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet",
+    "Subtitle": "Et ac, erat integer dolor eget non quisque, suscipit et, sodales tristique eu porttitor lorem. Mi nullam ac vivamus turpis in. Sit sed, sociis donec facilisi lectus excepturi. Quis nec.",
+    "TotalDurationInSeconds": 10520,
+    "LecturesCount": 3,
+    "Rating": 4.4,
+    "RatesCount": 60,
+    "EnrollmentCount": 225,
+    "DiscountPercent": 0,
+    "DiscountAmount": 0,
+    "UnitPrice": 99,
+    "Sections": [
+      {
+        "Title": "section 1",
+        "Lectures": [
+          {
+            "Title": "Lecture 1",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 1",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 2",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 3",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 2",
+        "Lectures": [
+          {
+            "Title": "Lecture 4",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 4",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 5",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 6",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 3",
+        "Lectures": [
+          {
+            "Title": "Lecture 7",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 7",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 8",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 8",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 9",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 9",
+              "Description": "no Description"
+            }
+          }
+        ]
+      }
+    ],
+    "Attributes": [
+      { "EntityAttributeId": 1 },
+      { "EntityAttributeId": 13 },
+      { "EntityAttributeId": 20 },
+      { "EntityAttributeId": 23 }
+    ]
+  },
+  {
+    "Title": "Math level 11",
+    "CourseType": 1,
+    "LanguageType": 2,
+    "CreateDateUTC": "11/20/2017 9:28:41 AM",
+    "Description": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet",
+    "Subtitle": "Et ac, erat integer dolor eget non quisque, suscipit et, sodales tristique eu porttitor lorem. Mi nullam ac vivamus turpis in. Sit sed, sociis donec facilisi lectus excepturi. Quis nec.",
+    "TotalDurationInSeconds": 10520,
+    "LecturesCount": 3,
+    "Rating": 4.4,
+    "RatesCount": 60,
+    "EnrollmentCount": 225,
+    "DiscountPercent": 15,
+    "DiscountAmount": 0,
+    "UnitPrice": 76,
+    "Sections": [
+      {
+        "Title": "section 1",
+        "Lectures": [
+          {
+            "Title": "Lecture 1",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 1",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 2",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 3",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 2",
+        "Lectures": [
+          {
+            "Title": "Lecture 4",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 4",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 5",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 6",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 3",
+        "Lectures": [
+          {
+            "Title": "Lecture 7",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 7",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 8",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 8",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 9",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 9",
+              "Description": "no Description"
+            }
+          }
+        ]
+      }
+    ],
+    "Attributes": [
+      { "EntityAttributeId": 1 },
+      { "EntityAttributeId": 13 },
+      { "EntityAttributeId": 20 },
+      { "EntityAttributeId": 22 }
+    ]
+  },
+  {
+    "Title": "Chemistry Level 11",
+    "CourseType": 1,
+    "LanguageType": 2,
+    "CreateDateUTC": "11/20/2017 9:28:41 AM",
+    "Description": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet",
+    "Subtitle": "Et ac, erat integer dolor eget non quisque, suscipit et, sodales tristique eu porttitor lorem. Mi nullam ac vivamus turpis in. Sit sed, sociis donec facilisi lectus excepturi. Quis nec.",
+    "TotalDurationInSeconds": 10520,
+    "LecturesCount": 3,
+    "Rating": 4.4,
+    "RatesCount": 60,
+    "EnrollmentCount": 225,
+    "DiscountPercent": 50,
+    "DiscountAmount": 0,
+    "UnitPrice": 70,
+    "Sections": [
+      {
+        "Title": "section 1",
+        "Lectures": [
+          {
+            "Title": "Lecture 1",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 1",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 2",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 3",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 2",
+        "Lectures": [
+          {
+            "Title": "Lecture 4",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 4",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 5",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 6",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 3",
+        "Lectures": [
+          {
+            "Title": "Lecture 7",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 7",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 8",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 8",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 9",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 9",
+              "Description": "no Description"
+            }
+          }
+        ]
+      }
+    ],
+    "Attributes": [
+      { "EntityAttributeId": 1 },
+      { "EntityAttributeId": 16 },
+      { "EntityAttributeId": 20 },
+      { "EntityAttributeId": 22 }
+    ]
+  },
+  {
+    "Title": "Physics Level 11",
+    "CourseType": 1,
+    "LanguageType": 2,
+    "CreateDateUTC": "11/20/2017 9:28:41 AM",
+    "Description": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet",
+    "Subtitle": "Et ac, erat integer dolor eget non quisque, suscipit et, sodales tristique eu porttitor lorem. Mi nullam ac vivamus turpis in. Sit sed, sociis donec facilisi lectus excepturi. Quis nec.",
+    "TotalDurationInSeconds": 10520,
+    "LecturesCount": 3,
+    "Rating": 4.4,
+    "RatesCount": 60,
+    "EnrollmentCount": 225,
+    "DiscountPercent": 50,
+    "DiscountAmount": 0,
+    "UnitPrice": 30,
+    "Sections": [
+      {
+        "Title": "section 1",
+        "Lectures": [
+          {
+            "Title": "Lecture 1",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 1",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 2",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 3",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 2",
+        "Lectures": [
+          {
+            "Title": "Lecture 4",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 4",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 5",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 6",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 3",
+        "Lectures": [
+          {
+            "Title": "Lecture 7",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 7",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 8",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 8",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 9",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 9",
+              "Description": "no Description"
+            }
+          }
+        ]
+      }
+    ],
+    "Attributes": [
+      { "EntityAttributeId": 1 },
+      { "EntityAttributeId": 15 },
+      { "EntityAttributeId": 20 },
+      { "EntityAttributeId": 22 }
+    ]
+  },
+  {
+    "Title": "English level 12",
+    "CourseType": 1,
+    "LanguageType": 2,
+    "CreateDateUTC": "11/20/2017 9:28:41 AM",
+    "Description": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet",
+    "Subtitle": "Et ac, erat integer dolor eget non quisque, suscipit et, sodales tristique eu porttitor lorem. Mi nullam ac vivamus turpis in. Sit sed, sociis donec facilisi lectus excepturi. Quis nec.",
+    "TotalDurationInSeconds": 10520,
+    "LecturesCount": 3,
+    "Rating": 4.4,
+    "RatesCount": 60,
+    "EnrollmentCount": 225,
+    "DiscountPercent": 30,
+    "DiscountAmount": 0,
+    "UnitPrice": 35,
+    "Sections": [
+      {
+        "Title": "section 1",
+        "Lectures": [
+          {
+            "Title": "Lecture 1",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 1",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 2",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 3",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 2",
+        "Lectures": [
+          {
+            "Title": "Lecture 4",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 4",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 5",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 6",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 3",
+        "Lectures": [
+          {
+            "Title": "Lecture 7",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 7",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 8",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 8",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 9",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 9",
+              "Description": "no Description"
+            }
+          }
+        ]
+      }
+    ],
+    "Attributes": [
+      { "EntityAttributeId": 1 },
+      { "EntityAttributeId": 14 },
+      { "EntityAttributeId": 20 },
+      { "EntityAttributeId": 23 }
+    ]
+  },
+  {
+    "Title": "CPA Accounting 2",
+    "CourseType": 2,
+    "LanguageType": 1,
+    "CreateDateUTC": "11/20/2017 9:28:41 AM",
+    "Description": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet",
+    "Subtitle": "Et ac, erat integer dolor eget non quisque, suscipit et, sodales tristique eu porttitor lorem. Mi nullam ac vivamus turpis in. Sit sed, sociis donec facilisi lectus excepturi. Quis nec.",
+    "TotalDurationInSeconds": 9520,
+    "LecturesCount": 4,
+    "Rating": 4.2,
+    "RatesCount": 43,
+    "EnrollmentCount": 25,
+    "DiscountPercent": 0,
+    "DiscountAmount": 0,
+    "UnitPrice": 24,
+    "Sections": [
+      {
+        "Title": "section 1",
+        "Lectures": [
+          {
+            "Title": "Lecture 1",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 1",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 2",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 3",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 2",
+        "Lectures": [
+          {
+            "Title": "Lecture 4",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 4",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 5",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 6",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 3",
+        "Lectures": [
+          {
+            "Title": "Lecture 7",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 7",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 8",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 8",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 9",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 9",
+              "Description": "no Description"
+            }
+          }
+        ]
+      }
+    ],
+    "Attributes": [
+      { "EntityAttributeId": 4 },
+      { "EntityAttributeId": 7 },
+      { "EntityAttributeId": 11 },
+      { "EntityAttributeId": 25 }
+    ]
+  },
+  {
+    "Title": "CPA Taxt",
+    "CourseType": 2,
+    "LanguageType": 1,
+    "CreateDateUTC": "11/20/2017 9:28:41 AM",
+    "Description": "Lorem ipsum dolor sit amet, sodales potenti urna sed massa vel posuere, molestie consequat enim aliquam mattis quisque, a id. Pellentesque pede adipiscing ad mus urna, eu atque nibh amet, velit et vel nibh justo feugiat praesent. Sem magna magna in, vestibulum tempor quis, eget venenatis, ullamcorper fusce justo donec ullamcorper mauris, pellentesque nulla. Sem curabitur ut a, et mauris tellus risus ullamco lobortis, nullam quam quis magna, pellentesque maecenas vivamus sed donec. Erat arcu donec neque, amet porta, id maecenas. Eget scelerisque dolor mauris donec dignissim, molestie magni ut eros blandit ante. Maecenas sed sed arcu nulla. Eu metus aliquam, ad penatibus cras lectus dis, turpis faucibus in quam. Ultricies pulvinar fringilla, sit venenatis consequat urna nunc enim cras, luctus mi. Sem in tellus suscipit mollis maecenas. Laoreet a ipsum pharetra ligula leo, nisl sed enim ac nullam, consequat mauris habitant mauris, ut amet",
+    "Subtitle": "Et ac, erat integer dolor eget non quisque, suscipit et, sodales tristique eu porttitor lorem. Mi nullam ac vivamus turpis in. Sit sed, sociis donec facilisi lectus excepturi. Quis nec.",
+    "TotalDurationInSeconds": 9520,
+    "LecturesCount": 4,
+    "Rating": 4.2,
+    "RatesCount": 43,
+    "EnrollmentCount": 25,
+    "DiscountPercent": 0,
+    "DiscountAmount": 0,
+    "UnitPrice": 40,
+    "Sections": [
+      {
+        "Title": "section 1",
+        "Lectures": [
+          {
+            "Title": "Lecture 1",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 1",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 2",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 3",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 2",
+        "Lectures": [
+          {
+            "Title": "Lecture 4",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 4",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 5",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 6",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": true,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 2",
+              "Description": "no Description"
+            }
+          }
+        ]
+      },
+      {
+        "Title": "section 3",
+        "Lectures": [
+          {
+            "Title": "Lecture 7",
+            "DurationInSeconds": 70,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 7",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 8",
+            "DurationInSeconds": 30,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 8",
+              "Description": "no Description"
+            }
+          },
+          {
+            "Title": "Lecture 9",
+            "DurationInSeconds": 90,
+            "IsAllowPreview": false,
+            "Video": {
+              "Title": "VIDEO FOR Lecture 9",
+              "Description": "no Description"
+            }
+          }
+        ]
+      }
+    ],
+    "Attributes": [
+      { "EntityAttributeId": 4 },
+      { "EntityAttributeId": 7 },
+      { "EntityAttributeId": 12 },
+      { "EntityAttributeId": 24 }
+    ]
+  }
+]

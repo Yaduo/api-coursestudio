@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>CourseStudio.Domain.Services</RootNamespace>
+    <AssemblyName>CourseStudio.Domain.Services</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Infrastructure\Ioc\Lib.Ioc.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Mediator\Lib.Mediator.csproj" />
+    <ProjectReference Include="..\Events\Domain.Events.csproj" />
+    <ProjectReference Include="..\Models\Domain.Models.csproj" />
+    <ProjectReference Include="..\Repositories\Domain.Repositories.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Exceptions\Lib.Exceptions.csproj" />
+  </ItemGroup>
+
+</Project>

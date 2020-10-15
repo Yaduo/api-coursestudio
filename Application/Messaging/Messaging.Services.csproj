@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>CourseStudio.Messaging.Services</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Infrastructure\Mediator\Lib.Mediator.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Ioc\Lib.Ioc.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Exceptions\Lib.Exceptions.csproj" />
+    <ProjectReference Include="..\Events\Application.Events.csproj" />
+    <ProjectReference Include="..\..\Domain\Models\Domain.Models.csproj" />
+    <ProjectReference Include="..\Common\Application.Common.csproj" />
+    <ProjectReference Include="..\Api.Dtos\Application.Dtos.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Sendgrid" Version="9.9.0" />
+  </ItemGroup>
+</Project>

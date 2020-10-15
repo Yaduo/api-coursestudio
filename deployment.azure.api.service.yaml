@@ -1,0 +1,12 @@
+﻿kind: Service 
+apiVersion: v1 
+metadata: 
+  name: coursestudio-api-service 
+spec: 
+  selector: 
+    app: coursestudio-api-pod 
+  ports: 
+  - protocol: TCP 
+    port: 80 
+    targetPort: 80 
+  type: LoadBalancer 

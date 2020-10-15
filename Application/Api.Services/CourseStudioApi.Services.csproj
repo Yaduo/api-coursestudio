@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>CourseStudio.Api.Services</RootNamespace>
+    <AssemblyName>CourseStudio.Api.Services</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\Models\Domain.Models.csproj" />
+    <ProjectReference Include="..\..\Domain\Repositories\Domain.Repositories.csproj" />
+    <ProjectReference Include="..\..\Domain\Services\Domain.Services.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Exceptions\Lib.Exceptions.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Ioc\Lib.Ioc.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\BlobStorage\Lib.BlobStorage.csproj" />
+    <ProjectReference Include="..\Events\Application.Events.csproj" />
+    <ProjectReference Include="..\Common\Application.Common.csproj" />
+    <ProjectReference Include="..\..\Domain\TraversalModel\Domain.TraversalModel.csproj" />
+    <ProjectReference Include="..\Api.Dtos\Application.Dtos.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.JsonPatch" Version="2.1.1" />
+  </ItemGroup>
+</Project>

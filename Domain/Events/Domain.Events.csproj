@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>CourseStudio.Domain.Events</RootNamespace>
+    <AssemblyName>CourseStudio.Domain.Events</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Infrastructure\Mediator\Lib.Mediator.csproj" />
+    <ProjectReference Include="..\TraversalModel\Domain.TraversalModel.csproj" />
+  </ItemGroup>
+
+</Project>

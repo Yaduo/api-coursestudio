@@ -1,0 +1,21 @@
+FROM microsoft/dotnet:sdk AS build-env
+WORKDIR /app
+ENV ASPNETCORE_ENVIRONMENT=Production
+ENV ASPNETCORE_URLS http://*:5000
+EXPOSE 5000
+
+# Copy csproj and restore as distinct layers
+RUN pwd
+
+# Copy everything and build
+COPY . ./
+
+RUN ls
+
+RUN dotnet publish ./Presentation/CourseStudio.Api/CourseStudio.Api.csproj -c Release -o out
+
+# Build runtime image
+FROM microsoft/dotnet:aspnetcore-runtime
+WORKDIR /app
+COPY --from=build-env /app/Presentation/CourseStudio.Api/out .
+ENTRYPOINT ["dotnet", "CourseStudio.Api.dll"]
